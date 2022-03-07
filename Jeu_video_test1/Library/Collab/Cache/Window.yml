@@ -14,16 +14,67 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   SimpleSelectedItems:
     m_Keys:
-    - Assets/MainMenu.unity
-    - Assets/MainMenu.unity.meta
-    - Assets/ciel-etoile.jpg
-    - Assets/ciel-etoile.jpg.meta
-    - Assets/scene jeu.unity
-    - Assets/scene jeu.unity.meta
-    - Assets/yep.unity
-    - Assets/yep.unity.meta
+    - .collabignore
+    - Assets/Rhino.meta
+    - Assets/Rhino/Materials.meta
+    - Assets/Rhino/Materials/Rhino_PBR.mat
+    - Assets/Rhino/Materials/Rhino_PBR.mat.meta
+    - Assets/Rhino/Mesh.meta
+    - Assets/Rhino/Mesh/Materials.meta
+    - Assets/Rhino/Mesh/Materials/No Name.mat
+    - Assets/Rhino/Mesh/Materials/No Name.mat.meta
+    - Assets/Rhino/Mesh/Materials/Rhinoceros_Albedo.mat
+    - Assets/Rhino/Mesh/Materials/Rhinoceros_Albedo.mat.meta
+    - Assets/Rhino/Mesh/Rino_mesh.FBX
+    - Assets/Rhino/Mesh/Rino_mesh.FBX.meta
+    - Assets/Rhino/Prefab.meta
+    - Assets/Rhino/Prefab/Rhino_PBR.prefab
+    - Assets/Rhino/Prefab/Rhino_PBR.prefab.meta
+    - Assets/Rhino/Rhino.controller
+    - Assets/Rhino/Rhino.controller.meta
+    - Assets/Rhino/Sheder.meta
+    - Assets/Rhino/Sheder/StandardDoubleSided.shader
+    - Assets/Rhino/Sheder/StandardDoubleSided.shader.meta
+    - Assets/Rhino/Texture.meta
+    - Assets/Rhino/Texture/Rhinoceros_Albedo.tga
+    - Assets/Rhino/Texture/Rhinoceros_Albedo.tga.meta
+    - Assets/Rhino/Texture/Rhinoceros_Ao.tga
+    - Assets/Rhino/Texture/Rhinoceros_Ao.tga.meta
+    - Assets/Rhino/Texture/Rhinoceros_Diffuse.tga
+    - Assets/Rhino/Texture/Rhinoceros_Diffuse.tga.meta
+    - Assets/Rhino/Texture/Rhinoceros_Emissive.tga
+    - Assets/Rhino/Texture/Rhinoceros_Emissive.tga.meta
+    - Assets/Rhino/Texture/Rhinoceros_Metallic.tga
+    - Assets/Rhino/Texture/Rhinoceros_Metallic.tga.meta
+    - Assets/Rhino/Texture/Rhinoceros_normals.tga
+    - Assets/Rhino/Texture/Rhinoceros_normals.tga.meta
+    - Assets/Rhino/animation.meta
+    - Assets/Rhino/animation/Materials.meta
+    - Assets/Rhino/animation/Materials/No Name.mat
+    - Assets/Rhino/animation/Materials/No Name.mat.meta
+    - Assets/Rhino/animation/Materials/Rhinoceros_Albedo.mat
+    - Assets/Rhino/animation/Materials/Rhinoceros_Albedo.mat.meta
+    - Assets/Rhino/animation/Rhino@Attack.FBX
+    - Assets/Rhino/animation/Rhino@Attack.FBX.meta
+    - Assets/Rhino/animation/Rhino@Dead.FBX
+    - Assets/Rhino/animation/Rhino@Dead.FBX.meta
+    - Assets/Rhino/animation/Rhino@Eats.FBX
+    - Assets/Rhino/animation/Rhino@Eats.FBX.meta
+    - Assets/Rhino/animation/Rhino@Get_Hit.FBX
+    - Assets/Rhino/animation/Rhino@Get_Hit.FBX.meta
+    - Assets/Rhino/animation/Rhino@Idle.FBX
+    - Assets/Rhino/animation/Rhino@Idle.FBX.meta
+    - Assets/Rhino/animation/Rhino@Run.FBX
+    - Assets/Rhino/animation/Rhino@Run.FBX.meta
+    - Assets/Rhino/animation/Rhino@Walk.FBX
+    - Assets/Rhino/animation/Rhino@Walk.FBX.meta
+    - Assets/Rhino/animation/Rhino@shout.FBX
+    - Assets/Rhino/animation/Rhino@shout.FBX.meta
+    - Packages/manifest.json
+    - Packages/packages-lock.json
+    - ProjectSettings/ProjectVersion.txt
     - 
-    m_Values: 000000000000000000
+    m_Values: 000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
   RevisionSummary: 
   ChangesSearchValue: 
   SelectedHistoryRevision: 
